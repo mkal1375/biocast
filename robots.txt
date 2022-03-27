@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://biocastpodcast.ir/sitemap.xml
-Host: biocastpodcast.ir
+Sitemap: https://biocastpodcast.ir/sitemap/sitemap-index.xml
+Host: https://biocastpodcast.ir
